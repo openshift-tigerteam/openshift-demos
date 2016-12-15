@@ -1,6 +1,7 @@
 #!/bin/bash
 
-oc new-app https://github.com/samueltauil/nexus
+# oc new-app https://github.com/samueltauil/nexus
+oc new-app https://github.com/openshift-tigerteam/openshift-demos --context-dir="nexus-on-ocp"
 
 oc expose svc nexus
 sleep 30

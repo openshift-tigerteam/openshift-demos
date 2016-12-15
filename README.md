@@ -7,3 +7,4 @@
 6. [Node Port](node-port)
 7. [GlusterFS on OpenShift](openshift-gluster-server)
 8. [Share PV Between Pods](share-pv-between-pods)
+9. [Nexus Repo On OpenShift](nexus-on-ocp)
